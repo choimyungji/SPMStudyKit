@@ -1,3 +1,3 @@
-struct SPMStudyKit {
-    var text = "Hello, World!"
+public struct SPMStudyKit {
+    public var text = "Hello, World!"
 }
